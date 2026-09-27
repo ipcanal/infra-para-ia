@@ -8,3 +8,5 @@ dupla = "isabela"
 
 # A prática começa em v2 e troca para v3 na etapa 3.
 imagem_tag = "v2"
+
+location = "eastus"
